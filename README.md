@@ -1,2 +1,10 @@
-# ChatbotAI
-AI Chatbot with Login and Chat History
+# AI Chatbot Backend
+
+A FastAPI backend system for user-authenticated AI chat using OpenAI's GPT.
+
+## 🔧 Setup
+
+1. Clone the repo:
+```bash
+git clone https://github.com/yourusername/chatbot-backend.git
+cd chatbot-backend
